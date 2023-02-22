@@ -1,0 +1,6 @@
+{
+    "name": "Custom Linux Universal",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
